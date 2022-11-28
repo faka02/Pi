@@ -1,0 +1,19 @@
+.recipeCard{
+    background-color: #9EE37D;
+    border-radius: 10px;
+}
+
+.recipeName{
+    color: #358600;
+}
+
+.recipeDiets{
+    color: #358600;
+    padding: 5px;
+}
+
+.recipeImg{
+    padding: 1rem;
+    width: 530px;
+    height: 350px;
+}

@@ -1,0 +1,14 @@
+.btnLP{
+    border-radius: 15px;
+    border: 2px solid #63C132;
+    cursor: pointer;
+    background: #358600;
+    color: #9EE37D;
+    font-family: serif;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+.img{
+    padding: 50px;
+}

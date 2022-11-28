@@ -1,0 +1,74 @@
+.titleForm{
+    font-family: serif;
+    text-transform: uppercase;
+    color: #358600;
+}
+
+.mainForm{
+    font-family: serif;
+    text-transform: uppercase;
+}
+
+.labelForm{
+    color: #358600;
+}
+
+.inputForm{
+    background: #9EE37D;
+    color: #358600;
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0px 25px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.errorForm{
+    color: #e8626b;
+}
+
+.btnCreateForm{
+    border-radius: 15px;
+    border: 2px solid #63C132;
+    cursor: pointer;
+    background: #358600;
+    color: #9EE37D;
+    font-family: serif;
+    text-transform: uppercase;
+    font-size: 23px;
+}
+
+.selectForm{
+    padding: 11px 12px;
+    margin: 5px 10px;
+    color: #358600;
+    background-color: #9EE37D;
+    border: 1px solid #358600;
+    cursor: pointer;
+    border-radius: 5px;  
+}
+
+.selectForm:focus,
+.selectForm:hover{
+    outline: none;
+    border: 1px solid #358600;
+}
+
+.btnXForm{
+    border-radius: 15px;
+    border: 2px solid #63C132;
+    cursor: pointer;
+    background: #358600;
+    color: #9EE37D;
+    font-family: serif;
+    text-transform: uppercase;
+}
+
+.p{
+    font-family: serif;
+    text-transform: uppercase;
+    color: #358600;
+}
+

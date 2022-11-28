@@ -1,0 +1,13 @@
+.buttonPag{
+    padding: 7px 11px;
+    margin: 0px 20px;
+    border: 2px solid #63C132;
+    border-radius: 50px;
+    background-color: #358600;
+    color: #9EE37D;
+    font-size: 15px;
+    font-family: serif;
+    text-transform: uppercase;
+    transition: 0.15s;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.input{
+    background: #9EE37D;
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0px 25px;
+    border-radius: 25px 0 0 25px;
+    margin: 10px;
+}
+
+.input::placeholder{
+    color: #358600;
+}
+
+.searchBtn{
+    position: relative;
+    left: -10px;
+    border-radius: 0 25px 25px 0;
+    width: 150px;
+    height: 50px;
+    border: 2px solid #63C132;
+    outline: none;
+    cursor: pointer;
+    background: #358600;
+    color: #9EE37D;
+}
